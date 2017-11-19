@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/Juggling.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/Juggling.JPG" | absolute_url }}" alt="" /></span>
 
 potato  content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requireme
 
