@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zach Theme - About - Massively
+title: Zach Peterson
 description: about.md description
 sitemap:
     priority: 0.7
@@ -9,19 +9,23 @@ sitemap:
 ---
 ## About Me
 
-<span class="image left"><img src="{{ "/images/Juggling.JPG" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/Juggling.JPG" | absolute_url }}" alt="" /></span>
 
-potato  content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requireme
+<b>School:</b> I am a sophomore studying computer science with a minor in business at the University of Michigan
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+<b>Business:</b> I am the founder of Zephair, a drone company with a current focus in construction and housing sites.
 
-### Content is Imortant
+### Passions
+<b>Technology:</b> I love new technology and photography. Zephair, my drone photography company is the incarnation of both of these.
+
+<b>Travel:</b> Seeing new places is my favorite past time. My favorite place so far was Switzerland with Kauai being a close second.
+
+<b>Outdoors:</b> The outdoors are great, especially camping and hiking. The best trip I've gone was trail building at Philmont in New Mexico. We spent ten days building trail near the peak of mt. Phillips, then hiked 80 miles in 5 days.
+
+<b>Hobbies:</b> I enjoy learning new things, like juggling, unicycling, solving a Rubik's cube, editing video or flying a drone. Finding something new to learn is how I like to spend my free time.
+
+### Quotes
 <div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
+  "Only you can control the future"<br>
+        -Dr. Suess
 </div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
