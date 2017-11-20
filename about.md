@@ -9,11 +9,11 @@ sitemap:
 ---
 ## About Me
 
-<span class="image right"><img src="{{ "/images/Juggling.JPG" | absolute_url }}" alt="" /></span>
+<b>School:</b> I am a sophomore studying computer science with a minor in business at the University of Michigan. I previously attended CSMTech academy at Clarkston High School.
 
-<b>School:</b> I am a sophomore studying computer science with a minor in business at the University of Michigan
+<b>Business:</b> I am the founder of Zephair, a drone company with a current focus in construction and housing sites. I have also worked in an intern position at five companies.
 
-<b>Business:</b> I am the founder of Zephair, a drone company with a current focus in construction and housing sites.
+<span class="image left"><img src="{{ "/images/Juggling.JPG" | absolute_url }}" alt="" /></span>
 
 ### Passions
 <b>Technology:</b> I love new technology and photography. Zephair, my drone photography company is the incarnation of both of these.
