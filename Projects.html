@@ -1,0 +1,71 @@
+---
+layout: page
+title: Jekyll Theme - Elements Reference - Massively
+description: Having a massive list of every element of a theme is useful for quick referencing and ideas. Here is every component of Massively!
+sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+
+<header class="major">
+  <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+	<h1>Zephair</h1>
+</header>
+
+<body onload="var start=setInterval('changeBanner()', 30000;">
+    <div>
+      <p>
+      <img src="{{ "/images/Drone1.jpg" | absolute_url }}" style = "float:right" width = "50%"/>
+      <img src="{{ "/images/Drone2.jpg" | absolute_url }}" align = "right" width = "50%" hidden/>
+      <img src="{{ "/images/Drone3.jpg" | absolute_url }}" align = "right" width = "50%" hidden/>
+      <img src="{{ "/images/Drone4.jpg" | absolute_url }}" align = "right" width = "50%" hidden/>
+      <h2>About</h2>
+      Zephair does drone photography and cinematography, with a current focus in masonry sites both finished and under construction. FAA UAS certified. Full service from start to end with photo and video editing. Currently contracting with <A href = "http://albaughmasonry.com">Albaugh Masonry Stone and Tile</A> and have photographed 21 sites.
+    </p>
+    </div>
+    <p>
+    <div>
+      <h2>Charity work</h2>
+    Worked with the Waterford Mott cross country team to create a walkthrough of the Hess Hathaway cross country course.
+  </p>
+  <div class = "model-box">
+    <iframe src="https://www.youtube.com/embed/vMHDPacJ9Q0" frameborder="0" gesture="media" class = "model"></iframe>
+  </div>
+
+</body>
+
+<script type="text/javascript">
+    var currentImageIndex = -1,
+        maxImageIndex = 0,
+        images = [],
+        changeInterval = 3000;
+
+    // prepares relevant variables to cycle through images
+    var setUp = function() {
+        images = document.images;
+        maxImageIndex = images.length;
+        currentImageIndex = 0;
+    };
+
+    // changes the banner currently being displayed
+    var changeBanner = function() {
+        var i;
+
+        // either re-set the index to 0 if the max length was reached or increase the index by 1
+        currentImageIndex = (currentImageIndex >= maxImageIndex - 1) ? 0 : currentImageIndex += 1;
+
+        for (i = 0; i < maxImageIndex; i += 1) {
+            images[i].hidden = (i !== currentImageIndex);
+        }
+    };
+
+    // a function which is triggered following the `load` event
+    window.onload = function() {
+        setUp();
+
+        images[currentImageIndex].hidden = false; // show the first banner image;
+
+        setInterval(changeBanner, changeInterval); // following a delay, keep changing the banner image by the specified interval
+    };
+</script>
