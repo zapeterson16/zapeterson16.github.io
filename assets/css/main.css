@@ -3421,7 +3421,7 @@
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(96, 96, 96, 0.25);
+		background: rgba(150, 150, 150, 0.4);
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
