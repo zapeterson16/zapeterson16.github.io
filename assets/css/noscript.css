@@ -10,7 +10,7 @@
 
 	#wrapper {
 		background-color: #FF0000;
-		background-image: url("../../images/Juggling.JPG"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/Juggling.JPG");
+		background-image: url("../../images/Juggling.JPG"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 		background-size: auto,								auto,														100% auto;
 		background-position: center,								center,														top center;
 		background-repeat: repeat,								no-repeat,													no-repeat;
