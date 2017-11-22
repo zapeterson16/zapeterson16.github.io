@@ -7,6 +7,30 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.zephair-image-flex-box{
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.zephair-sub-division{
+  display: inline-block;
+  width: 48%;
+}
+
+@media only screen and (max-width: 850px){
+  .zephair-image-flex-box{
+    display: block;
+  }
+  .zephair-sub-division{
+    width: 100%;
+  }
+}
+
+
 /* Reset */
 .model-box {
   position:   relative;
