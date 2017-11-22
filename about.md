@@ -24,6 +24,9 @@ sitemap:
 
 <b>Hobbies:</b> I enjoy learning new things, like juggling, unicycling, solving a Rubik's cube, editing video or flying a drone. Finding something new to learn is how I like to spend my free time.
 
+<b>Resume:</b> if there are too many colors on the website for you my resume only has four bland colors. <a href="/assets/files/resume.pdf">Click here</a>
+
+
 ### Quotes
 <div class="box">
   "Only you can control the future"<br>
