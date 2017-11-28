@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Zach Peterson
-description: about.md description
+title: About the website
+description: about the website
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2017-11-28
     changefreq: weekly
 ---
 ## What I built upon
