@@ -1,26 +1,21 @@
 ---
 layout: page
-title: Wineman Technology
-description: Wineman Technology experience
+title: DRS
+description: Dynamic Robotic Solutions Experience
 sitemap:
     priority: 0.7
-    lastmod: 2017-12-04
+    lastmod: 2017-12-06
     changefreq: weekly
 ---
-<span><img src="{{ "/images/WTILogo.png" | absolute_url }}" alt="" width = "100%"/></span>
-## About Wineman Technology
-<a href = "https://www.winemantech.com/">Wineman Technology</a> is a system integrator specializing in custom equipment
-to provide insight through electromechanical test. The Clarkston office which I interned at focused on the electrical designing
-and software development of these systems.
+<span class = "image right"><img src="{{ "/images/DRSLogo.png" | absolute_url }}" alt="" width = "100%"/></span>
+## About Dynamic Robotic Solutions
+<a href = "http://www.drsrobotics.com/na//">Dynamic Robotic Solutions</a> is a robotics company that designs and builds robotic cells from start to finish. Most of the design work is done in SolidWorks while other software is used to simulate the cells and do the electrical design. The software development for the robots is done mostly with ladder logic. DRS has a current focus on water jetting, router cutting and laser cutting robotic cells.
 
-### LabVIEW
-LabVIEW is a programming suite created by National Instruments to run hardware developed by National Instruments.
-LabVIEW uses the G visual programming language. I started learning LabVIEW on my robotics team in high school.
-When I started at Wineman I read two textbooks cover to cover in a week to get acquainted with LabVIEW.
-After finishing the textbooks I worked on sample project with my co-workers doing code reviews with me along the way.
-My coworkers were all certified LabVIEW Architects which is the highest level of LabVIEW certification.
-I am now a Certified LabVIEW Associate Developer.
-
+### My Role
+At Dynamic Robotic Solutions I worked with the engineers on their robotic cell designs and also had the opportunity to see the electrical design, programming and animation of the robots.
 
 ### Big project
-My largest project was creating drivers for LabVIEW that would allow commands to be used in the typical block style of G but allow communication to serial devices where each serial command became it's own block.
+My largest project was creating a sensor mount that held an accelerometer. Check out the picture of the sensor mount below. It holds an accelerometer and has attachment points to connect to the the end of the robot. It is now sold as a part of the advanced robot calibration package.
+
+
+<span><img src="{{ "/images/sensorMount1.jpg" | absolute_url }}" alt="" width = "45%"/><img src="{{ "/images/sensorMount2.jpg" | absolute_url }}" alt="" width = "45%" align = "right"/></span>
