@@ -15,5 +15,5 @@ sitemap:
 Stereolithography is a manufacturing technique where a machine shines lasers at a liquid and the liquid hardens. Then the plate moves down and the laser shines again. This keeps happening until the part is created.
 
 
-### Big project
-My largest project was creating drivers for LabVIEW that would allow commands to be used in the typical block style of G but allow communication to serial devices where each serial command became it's own block.
+### My Job
+I was focused on designing the support structures that would get printed along with the part. The support structures needed to be designed in a way that would properly support the part but also be easy to remove. I also worked with a few of the technicians on cleaning and sanblasting parts to create a finished product.
