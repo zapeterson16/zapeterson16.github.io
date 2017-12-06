@@ -2466,6 +2466,9 @@ font-family: 'Roboto', sans-serif;
 		.image.left, .image.right {
 			max-width: 40%;
 		}
+    .image.right.small{
+      max-width: 25%;
+    }
 
 			.image.left img, .image.right img {
 				width: 100%;
