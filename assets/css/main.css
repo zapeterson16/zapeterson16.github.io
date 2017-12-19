@@ -4525,19 +4525,22 @@ font-family: 'Roboto', sans-serif;
 
 	}
 
-  .divtest{
-    background-color:red;
-    height:400px;
+  .dualImageDiv img{
+    max-height: 400px;
+    width: 100%
     overflow: hidden;
     padding: 5px;
   }
 
-  .imageLeftTest{
+  .dualImageLeft{
     max-height:100%;
+    max-width: 45%;
     align: left;
   }
 
-  .imageRightTest{
+  .dualImageRight{
     max-height:100%;
+    max-width: 45%;
     align: right;
+    float: right;
   }
