@@ -17,7 +17,7 @@ Even though my first few hair cuts weren't quite up to par with the barbers afte
 hair cut that I'm happy with every time. It takes me an hour total which means each time I save an hour of my time over going to the barber and 25 dollars. Assuming a hair cut every 2 months this means I will save $150 a year and 6 hours of hassle going to the barber. As well as get the hair
 cut that I want every time without having to try to explain what I want to the barber.
 
-<div>
+
 <span class="image left"><img src="{{ "/images/PreHairCut.jpg" | absolute_url }}" alt="" /></span>
 <span class="image right"><img src="{{ "/images/PostHairCut.jpg" | absolute_url }}" alt="" /></span>
 </div>

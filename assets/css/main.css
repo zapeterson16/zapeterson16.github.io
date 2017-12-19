@@ -2514,7 +2514,7 @@ font-family: 'Roboto', sans-serif;
 				width: 100%;
 			}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 980px) {
 
 			.image.fit {
 				margin: 2rem 0;
@@ -4524,3 +4524,20 @@ font-family: 'Roboto', sans-serif;
 		}
 
 	}
+
+  .divtest{
+    background-color:red;
+    height:400px;
+    overflow: hidden;
+    padding: 5px;
+  }
+
+  .imageLeftTest{
+    max-height:100%;
+    align: left;
+  }
+
+  .imageRightTest{
+    max-height:100%;
+    align: right;
+  }
