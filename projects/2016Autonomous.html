@@ -10,22 +10,22 @@ sitemap:
 <header>
       <h1 style = "text-align:center">2016 Team RUSH software</h1>
   <p style = "text-align:center">
-In 2016 I was the captain, head programmer and robot operator of <a href = "https://www.firstinspires.org/robotics/frc">FIRST</a> robotics team 27, <a href = "http://www.teamrush27.net">Team RUSH</a>.
+In 2016, I was the captain, head programmer and robot operator of <a href = "https://www.firstinspires.org/robotics/frc">FIRST</a> Robotics Team 27, <a href = "http://www.teamrush27.net">Team RUSH</a>.
 Check out the software that ran the robot in 2016 developed by me, with the autonomous portion being developed in collaboration with Wineman Technology.
-<a href = "https://github.com/TeamRUSH/Rush-2016-labview">Check out the code on github.</a>
+<a href = "https://github.com/TeamRUSH/Rush-2016-labview">Check out the code on GitHub.</a>
 </p>
 </header>
 <body>
   <div>
   <img src="{{ "/images/2016Robot.png" | absolute_url }}" align = "right" width = "30%" style = "padding-left: 15px;"/>
-  <h3>Where's the teamwork</h3>
+  <h3>Where's the teamwork?</h3>
   <p>
-    In 2016 I didn't develop the software alone because we didn't have any other programmers,
-    we had 7 people which is the largest programming team we've ever had.
-    Before the 2016 season I pushed for our team to switch from developing in
-    LABView to Java because Java is taught in school and more applicable to college curriculums.
-    In order to facilitate the switch I developed in LabVIEW, while the rest of the team, which
-    was younger, developed in Java. This was done so that in the 2017 season the robot could be
+    In 2016, I didn't develop the software alone because we didn't have any other programmers;
+    we actually had 7 people, which is the largest programming team we had ever had.
+    Before the 2016 season, I pushed for our team to switch from developing in
+    LABView to Java, because Java is taught in school and more applicable to college curriculums.
+    In order to facilitate the switch, I developed that year's software in LabVIEW, while the rest of the team, which
+    was younger, developed in Java. This was done so that in the 2017 season, the robot could be
     developed entirely in Java.
   </p>
 </div>
@@ -34,12 +34,13 @@ Check out the software that ran the robot in 2016 developed by me, with the auto
   <!-- <img src="{{ "/images/pumpkinTimer.png" | absolute_url }}" align = "left" width = "45%" style = "padding-right: 15px"/> -->
   <h3>Automation</h3>
   <p>
-    A key focus in 2016 for me was automating as much as I could, since I was also the robot operator I was very familiar
-    with how much help it is during a match to have the robot do the work for me so that I could focus on the strategy.
-    Developing the software in 2015 and operating the robot was a learning experience because the software that I developed
-    the majority of was lacking a lot of automation which made it hard to operate the robot.
-    In 2016 the controls were very simple one button to harvest the ball, one to prepare to shoot and one to shoot.
-    Then fully automated sequences for pulling down the drawbridge, lifting the gate and climbing the bar. This automation took the
+    A key focus in 2016 for me was automating as much as I could; since I was also the robot operator, I was very familiar
+    with how helpful it is during a match to have the robot do the work for me, so that I could focus on strategy.
+    Developing the software and operating the robot the previous year, was a learning experience, because the software that I helped develop
+    was lacking in automation, which made it hard to operate the robot.
+    In 2016, the ball controls were very simple: one button to harvest the ball, one to prepare to shoot, and one to shoot.
+    In addition, fully automated sequences were created for pulling down the drawbridge, lifting the gate and climbing the bar.
+    This automation took the
     guesswork out of some of the most challenging sequences of moves that we had to do on the field.
   </p>
 </div>
@@ -48,17 +49,17 @@ Check out the software that ran the robot in 2016 developed by me, with the auto
   <!-- <img src="{{ "/images/pumpkinStats.png" | absolute_url }}" align = "right" width = "45%" style = "padding-left: 15px"/> -->
   <h3>Autonomous mode</h3>
   <p>
-    At the start of every match the robot drives by itself with no human control for 15 seconds.
-    This portion of the match is the hardest to program because the robot needs to do everything on it's own.
-    There were two main challenges in 2016 to the autonomous mode, the first was getting over the obstacles.
+    At the start of every match, the robot drives by itself with no human control for 15 seconds.
+    This portion of the match is the hardest to program, because the robot needs to do everything on its own.
+    There were two main challenges in 2016 to the autonomous mode; the first was getting over the obstacles.
     Each obstacle needed a different sequence of moves that could be switched at match time so that the robot
-    could make it over the obstacle. The second major challenge was once the robot was over the obstacle it
-    wouldn't know where it was so it needed to use it's gyroscope and cameras to vision track the target and drive towards it then shoot.
-    To accomplish this I developed a state machine which reads instructions from a CSV file which can be switch on the fly.
-    The CSV file described the sequence of events that needed to take place including how to get over the obstacle at hand and
-    when to start tracking towards the target. To vision track towards the target I worked closely with <a href = "https://www.winemantech.com">Wineman Techonology</a>
-    to develop the algorithm that finds the target in the image and drive towards it.
-    Check out the video below to see the autonomous sequence in action (Team RUSH is the yellow robot on the right side).
+    could make it over the obstacle. The second major challenge was once the robot was over the obstacle, it
+    wouldn't know where it was so it needed to use its gyroscope and cameras to vision track the target, drive towards it, and then shoot.
+    To accomplish this, I developed a state machine which read instructions from a CSV file which could be switched on the fly.
+    The CSV file described the sequence of events that needed to take place, including how to get over the obstacle at hand and
+    when to start tracking towards the target. To vision track towards the target, I worked closely with <a href = "https://www.winemantech.com">Wineman Techonology</a>
+    to develop the algorithm that finds the target in the image and drives towards it.
+    Check out the video below to see the autonomous sequence in action. (Team RUSH is the yellow robot on the right side.)
   </p>
     <div class = "model-box">
   <iframe src="https://www.youtube.com/embed/z1MHH1ObAlw?rel=0" frameborder="0" allowfullscreen class = "model"></iframe>
