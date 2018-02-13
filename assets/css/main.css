@@ -3465,7 +3465,7 @@ font-family: 'Roboto', sans-serif;
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(192, 192, 192, 0.4);
+		background: rgba(100, 100, 100, 0.65);
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
@@ -3475,6 +3475,8 @@ font-family: 'Roboto', sans-serif;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
+    border-radius: 15px 15px 0 0;
+
 	}
 
 		#nav ul.divided li {
