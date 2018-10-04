@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About Me
 
-<b>School:</b> I am a second-year student studying computer science with a minor in business at the University of Michigan. I will be graduating in 2019 (after three years). I previously attended CSMTech (Clarkston Science, Math, and Technology) Academy at Clarkston High School in Clarkston, Michigan.
+<b>School:</b> I am a third-year student studying computer science at the University of Michigan. I will be graduating in 2019 (after three years). I previously attended CSMTech (Clarkston Science, Math, and Technology) Academy at Clarkston High School in Clarkston, Michigan.
 
 <b>Business:</b> I am the founder of Zephair, a drone company with a current focus in construction and housing sites. I have also as an intern at five companies; see the <a href = "/experience">experience</a> page for more details.
 
