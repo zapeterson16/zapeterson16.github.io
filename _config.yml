@@ -45,7 +45,7 @@ phone:              248-558-9703
 email:              zachp@umich.edu
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
