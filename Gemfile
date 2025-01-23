@@ -7,4 +7,3 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'kramdown-parser-gfm'
-
