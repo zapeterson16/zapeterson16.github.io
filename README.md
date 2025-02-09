@@ -5,7 +5,7 @@ Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massive
 
 Open a terminal window or a command line and ```cd``` to that location.
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+Then enter: ```bundle exec jekyll serve --livereload```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
 
 ## Features
 ### Auto-Generating Sitemap
